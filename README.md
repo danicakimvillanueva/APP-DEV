@@ -2,11 +2,9 @@
 My First Repository
 
 # Stranger Things 
-*Created by the Duffer Brothers
+*Created by the Duffer Brothers*
 
 **Genre: Science Fiction, Horror, Drama, Supernatural**
-
-# Stranger Things Poster
 
 # Synopsis 
 *"Stranger Things" is a captivating sci-fi series that blends elements of horror and drama. Set in the 1980s in the fictional town of Hawkins, it follows a group of kids who become friends while uncovering supernatural mysteries. The series kicks off with the mysterious disappearance of a young boy, leading to the discovery of a parallel dimension called the Upside Down.*
