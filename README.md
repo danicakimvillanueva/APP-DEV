@@ -1,6 +1,8 @@
 # APP-DEV
 My First Repository
 
+![alt text](OIP.jfif)
+
 # Stranger Things 
 *Created by the Duffer Brothers*
 
