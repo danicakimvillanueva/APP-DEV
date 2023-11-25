@@ -1,7 +1,7 @@
 # APP-DEV
 My First Repository
 
-** # Stranger Things **
+# Stranger Things 
 'Created by the Duffer Brothers'
 
 ** Genre: Science Fiction, Horror, Drama, Supernatural **
